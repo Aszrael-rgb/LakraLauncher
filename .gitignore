@@ -1,0 +1,25 @@
+# Flutter/Dart
+/.dart_tool/
+/build/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/pubspec.lock.backup
+*.freezed.dart
+*.g.dart
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.iml
+
+# Windows build outputs
+/windows/flutter/ephemeral/
+/windows/flutter/generated_plugin_registrant.cc
+/windows/flutter/generated_plugin_registrant.h
+/windows/flutter/generated_plugins.cmake
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
